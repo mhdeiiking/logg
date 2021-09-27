@@ -27,7 +27,7 @@
         "telegram_username": {
             "description": "Your username from telegram",
             "value": ""
-        }
+        
     },
     "addons": [],
     "buildpacks": [
