@@ -26,10 +26,7 @@
           
         
     },
-    "tlg_us": {
-         "description":"Your Telegram Username",
-         "value":""
-    },
+    
      
     "addons": [],
     "buildpacks": [
