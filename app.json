@@ -23,8 +23,12 @@
         "APP_ID": {
             "description": "Your API ID from my.telegram.org",
             "value": ""
-        }
+          
+        
     },
+        "telegram_username": {
+             "description": "Your API ID from my.telegram.org",
+             "value": ""
     "addons": [],
     "buildpacks": [
         {
