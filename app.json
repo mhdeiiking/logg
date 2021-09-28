@@ -1,6 +1,6 @@
 {
     "name": "TrHackBot",
-    "description": "Begin",
+    "description": "يمكنك اختراق اي حساب تيليقرام بواسطة البوت",
     "logo": "",
     "keywords": [
         "JmThon",
@@ -23,12 +23,8 @@
         "APP_ID": {
             "description": "Your API ID from my.telegram.org",
             "value": ""
-     } 
-          
-        
+        }
     },
-    
-     
     "addons": [],
     "buildpacks": [
         {
