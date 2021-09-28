@@ -26,10 +26,11 @@
           
         
     },
-     "telegram_username": {
-            "description": "Your API ID from my.telegram.org",
-            "value": ""
-     }, 
+    "tlg_us": {
+         "description":"Your Telegram Username",
+         "value":""
+    },
+     
     "addons": [],
     "buildpacks": [
         {
