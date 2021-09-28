@@ -11,7 +11,7 @@ DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 API_ID = os.environ.get("APP_ID")
 API_HASH = os.environ.get("API_HASH")
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-username = os.environ.get("telegram_username")
+username = ("@ttrakos")
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
